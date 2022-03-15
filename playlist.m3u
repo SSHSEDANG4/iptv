@@ -739,6 +739,12 @@ https://m3u-editor.com/serve/8aee2wt957/513650715.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3J6QS6B" group-title="MUSIC", Prambors
 https://m3u-editor.com/serve/8aee2wt957/513650718.ts
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIC",POP MUSIK
+https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title="MUSIC",MALEO TV
+https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
+
 ##########WORLD NEWS###########
 
 #EXTINF: -1 tvg-logo="https://bit.ly/3HvtE9L" group-title="WORLD NEWS", Aljazeera
