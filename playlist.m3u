@@ -193,64 +193,6 @@ http://nonton.site:8888/Alifathaya/alifathaya123/1697
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040389.jpg" group-title="NEWS",TVR PARLEMEN
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
-#############NEWS##############
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://2.bp.blogspot.com/-pzznmfsZo7c/W-i518Fx9zI/AAAAAAAAE94/wmbasauicA4jdlTXpHs3cUuNCylzvNZFACLcBGAs/s1600/TVOne1.png" group-title="NEWS",TV ONE 1
-http://210.210.155.35/session/f282fbe2-6910-11ea-b0e3-c81f66f89318/qwr9ew/s/s105/02.m3u8
-http://nonton.site:8888/Alifathaya/alifathaya123/29:
-https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybMNyc2McK4da3_XyNa4ydng)/dm/3/x619221/s/live-3.m3u8
-#EXTINF:-1 logo="https://2.bp.blogspot.com/-pzznmfsZo7c/W-i518Fx9zI/AAAAAAAAE94/wmbasauicA4jdlTXpHs3cUuNCylzvNZFACLcBGAs/s1600/TVOne1.png" group-title="NEWS",TV ONE 2 (Backup)
-http://210.210.155.35/qwr9ew/s/s105/02.m3u8
-http://nonton.site:8888/Ainamanja/RPLf79Gusm/29
-#EXTINF:-1 logo="https://2.bp.blogspot.com/-pzznmfsZo7c/W-i518Fx9zI/AAAAAAAAE94/wmbasauicA4jdlTXpHs3cUuNCylzvNZFACLcBGAs/s1600/TVOne1.png" group-title="NEWS",TV ONE 3 (Backup)
-http://nonton.site:8888/Alifathaya/alifathaya123/29
-http://goodtv.xyz:2052/reggie/reggie/1109808
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_(Stacked).svg/revision/latest/top-crop/width/450/height/450?cb=20181125093938" group-title="NEWS",BERITA SATU 1
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_(Stacked).svg/revision/latest/top-crop/width/450/height/450?cb=20181125093938" group-title="NEWS",BERITA SATU 2 (Backup)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/BeritaSatu_(Stacked).svg/revision/latest/top-crop/width/450/height/450?cb=20181125093938" group-title="NEWS",BERITA SATU WORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS",CNBC Indonesia 1
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w920218190_b384000_sleng.m3u8
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS",CNBC Indonesia 2 (Backup)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-id="CNIH" tvg-name="CNN Indonesia HD" tvg-language="Indonesian" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="NEWS",CNN Indonesia 1
-http://nonton.site:8888/Athayamanja/SHFTZRKFrF/44
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="CNIH" tvg-name="CNN Indonesia HD" tvg-language="Indonesian" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="NEWS",CNN Indonesia 2 (Backup)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/vMpr2r6.jpg" group-title="NEWS",Jakarta Globe
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-sO6R0GX0S0k/XBOEKw8oOPI/AAAAAAAAQ84/7J2ET_B2Un8XU5i0KHzRdk4AVgZB5chgACLcBGAs/w1200-h630-p-k-no-nu/Inews+TV.png" group-title="NEWS",I NEWS 1
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-sO6R0GX0S0k/XBOEKw8oOPI/AAAAAAAAQ84/7J2ET_B2Un8XU5i0KHzRdk4AVgZB5chgACLcBGAs/w1200-h630-p-k-no-nu/Inews+TV.png" group-title="NEWS",I NEWS 2 (Backup)
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://1.bp.blogspot.com/-sO6R0GX0S0k/XBOEKw8oOPI/AAAAAAAAQ84/7J2ET_B2Un8XU5i0KHzRdk4AVgZB5chgACLcBGAs/w1200-h630-p-k-no-nu/Inews+TV.png" group-title="NEWS",I NEWS 3 (Backup)
-https://tv.cpdev.us/Playlist/o/inews.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="NEWS",KOMPAS TV 1
-http://nonton.site:8888/Alifathaya/alifathaya123/30
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="NEWS",KOMPAS TV 2 (Backup)
-https://tv.cpdev.us/Playlist/o/kompastv.m3u8?t=92eb5ffee6ae2fec3ad71c777531578f
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="NEWS",KOMPAS TV 3 (Backup)
-http://nonton.site:8888/Alifathaya/alifathaya123/30
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1R4Z_QkTQE0ltKJIFY431DShZP9MFsGTeQ&usqp=CAU" group-title="NEWS",METROTV HD 1
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-http://tvku.live:8888/Ainamanja/RPLf79Gusm/1697
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1R4Z_QkTQE0ltKJIFY431DShZP9MFsGTeQ&usqp=CAU" group-title="NEWS",METROTV HD  2 (Backup)
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/165059
-http://tvku.live:8888/Ainamanja/RPLf79Gusm/1697
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1R4Z_QkTQE0ltKJIFY431DShZP9MFsGTeQ&usqp=CAU" group-title="NEWS",METROTV HD 3 (Backup)
-https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-http://nonton.site:8888/Alifathaya/alifathaya123/1697
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040389.jpg" group-title="NEWS",TVR PARLEMEN
-http://103.16.220.69:1935/golive/livestream/playlist.m3u8
-
 
 ###########MNCGROUP###########
 
