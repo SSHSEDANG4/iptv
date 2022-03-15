@@ -291,7 +291,7 @@ https://m3u-editor.com/serve/hlzt5h5k2o/513640371.ts
 https://m3u-editor.com/serve/hlzt5h5k2o/513640374.ts
 #EXTINF: -1 tvg-logo="https://bit.ly/3Gtw1c5" group-title="MOVIES", KIX
 https://m3u-editor.com/serve/x3u5j2jr6i/513650478.ts
-#EXTINF:-1 group-title="MOVIES | VIDIO" tvg-logo="",ZEE BIOSKOP
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",ZEE BIOSKOP
 http://tvn.x10.bz/xchannel/master-15.m3u8
 
 ##########KNOWLEDGE###########
