@@ -1294,3 +1294,116 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tic.png" group-title="MAXSTREAM",The Indonesia Channel(telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+
+##########VOD INDONESIA###########
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90NhrPCV/Cek-Toko-Sebelah.jpg"group-title="VOD INDONESIA",Cek Toko Sebelah
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/VOD/12755/18663/ff57b12f-dec4-4788-b9bb-64e878088003/6bd4b17a-065f-7358-38c8-94e0be987188/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jC0qWkc/Film-From-London-to-Bali-2017.jpg"group-title="VOD INDONESIA",From London to Bali
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/VOD/2035/17057/40f38352-b641-41dd-b0dd-e8a17f73a552/6bd4b17a-065f-7358-38c8-94e0be987188/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2CHPb09/images-4.jpg"group-title="VOD INDONESIA",Heart Attack
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/VOD/18122/419/b82978e9-7b21-43c9-bc68-ff1604713002/6bd4b17a-065f-7358-38c8-94e0be987188/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2DMmnC5/046422300-1532662377-kafir01.jpg"group-title="VOD INDONESIA",Kafir - Bersekutu Dengan Setan
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/VOD/19247/2518/f476e2d6-3ac6-4a15-8706-55df81487b17/6bd4b17a-065f-7358-38c8-94e0be987188/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jS4bqBdb/MV5-BYjgz-Zm-Q2-NWIt-Zjkx-ZC00-ODA3-LTlj-ZGUt-NDk5-ZWRm-Yz-Y3-NWRj-Xk-Ey-Xk-Fqc-Gde-QXVy-Mz-Yz-OTYx-Nz-M-V1.jpg"group-title="VOD INDONESIA",Milly & Mamet
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/VOD/5708/6699/a08aa3bc-dc5b-43ec-8200-df188a82db9a/6bd4b17a-065f-7358-38c8-94e0be987188/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJNH31cK/Sweet-20.jpg"group-title="VOD INDONESIA",Sweet 20
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/VOD/6763/11579/2a0b42d3-afa5-40e7-b73d-724983cd6698/6bd4b17a-065f-7358-38c8-94e0be987188/manifest.mpd
+
+#########VOD1##########
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQxMjVkZjEtMDQxYy00MGIwLWE1NjYtYzZkZmU1NTFlZGFlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX1000_.jpg" group-title="VOD1", The Conjuring : The Devil Made Me Do It (2021)
+http://admin.nf21.net/go/files/19354
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOWI5YTUxOWEtZmRiZS00ZmQxLWE2NzctYTRiODA2NzE1ZjczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD1", Cruella (2021)
+http://admin.nf21.net/go/files/19286
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2QxZDcxOTQtNzljYi00YWRhLThkYjItNzJkMmUxZDJhMjA4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD1", Seance (2021)
+http://admin.nf21.net/go/files/19109
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzJhZGMwMDMtNzgwYS00OWJiLWFjM2ItYWYxM2E0YTMzMzg1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD1", The Djinn (2021)
+http://admin.nf21.net/go/files/18809
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NzgzYzctYWQwMC00MzM2LThjNGMtZjFjMWUyNzg0ZmM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg" group-title="VOD1", Army of the Dead (2021)
+http://admin.nf21.net/go/files/19051
+
+#EXTINF:-1 group-title="VOD1" tvg-logo="https://i.ibb.co/rHS2h1s/IMG-20210701-165157.jpg",ARMAGEDDON TALES (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/3ca9a047ea086321136a11b7181cfc2a/540p/index.m3u8
+
+#EXTINF:-1 group-title="VOD1" tvg-logo="https://i.ibb.co/rHS2h1s/IMG-20210701-165157.jpg",Vanquish (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
+
+#EXTINF:-1 group-title="VOD1" tvg-logo="https://i.ibb.co/rHS2h1s/IMG-20210701-165157.jpg",Nobody (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/6e13167f4c5fb6e47d9dd7380b3776b5/360p/index.m3u8
+
+#EXTINF:-1 group-title="VOD1" tvg-logo="https://i.ibb.co/rHS2h1s/IMG-20210701-165157.jpg",Thunder Force (2021)
+https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/index.m3u8
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1", HOTEL MUMBAI
+https://dl.dropboxusercontent.com/s/9ykdbxpvi4zisla/hotelmumbai.mp4?dl=0
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1", FROZEN
+https://dl.dropboxusercontent.com/s/imdx06da3maf5lj/Nonton Frozen II (2019) Subtitle Indonesia Terbaru - Download Streaming Online Gratis.mp4?dl=0
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1", FROZEN II
+https://dl.dropboxusercontent.com/s/snq09nk3cs89nnv/Nonton Frozen (2013) Subtitle Indonesia Terbaru - Download Streaming Online Gratis.mp4?dl=0
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1", FTHE EQUALIZER 2
+https://dl.dropboxusercontent.com/s/0tjkh8s85wnax1w/- The Equalizer 2 (2018).mp4?dl=0
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1", SKYSCRAPER
+https://dl.dropboxusercontent.com/s/vho2go25eggmjev/- Skyscraper (2018) jf.mp4?dl=0
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1", Pacific Rim 2
+https://dl.dropboxusercontent.com/s/rinppgsy74iz7x8/ - Pacific Rim Uprising (2018) jf.mp4?dl=0
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1", Orang Kaya Baru
+https://dl.dropboxusercontent.com/s/gso0gik4x02krh9/ornag kaya baru.mp4?dl=0
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1",Doctor Strange (2016)
+http://srv19.nf21.net:80/files/10-2018-08-03-2d8f006fa85f4d9bae69d108e45c9e95.mp4
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1",Atlantic Rim: Resurrection (2018)
+http://srv28.nf21.net:80/files/15-2019-02-13-3a0f53dc85236110bfb6ac9a2ce39c91.mp4
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1",The Patriot (2000)
+http://srv9.nf21.net/files/14-2018-06-25-b7a6f626f774070c8a902c0cba4b7196.mp4
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1",Swordfish (2001)
+http://srv11.nf21.net/files/14-2018-07-01-7cac6cb8081425b4596b478d9b594aca.mp4
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1",Tunnel (Teo-neol)
+https://www.googleapis.com/drive/v3/files/1Wzl1VJnrncB0BZad_377awDcZj6DX8oG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1",Dorm (2006)
+https://www.googleapis.com/drive/v3/files/1L6HtY85Xt0lbPm6RqUsX8CoNadMdlQc_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1",Countdown (2012)
+https://www.googleapis.com/drive/v3/files/1RAqWtug7WmtmrfzwvohJG9_n9iXk1CCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 txvx="https://dl.dropbox.com/s/2ndcesyj5mnx3qz/IMG_20200619_141500_526.jpg?dl=0" group-title="VOD1",Best of Times (2009)
+https://www.googleapis.com/drive/v3/files/1t8LQvHW-kUen31vk5JBvd5W20GyqUhCu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+############WARKOPDKI########
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//mZtmAlJCkxm0Eg04oLyzTvzZwpU.jpg" group-title="Warkop DKI Collection", Depan Bisa Belakang Bisa (1987)
+https://m3u-editor.com/serve/c21bb380-b273-11eb-9597-43324b876aa5/291563787
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//zrDSIz5FC26caRmAFcNh4uy5Mg9.jpg" group-title="Warkop DKI Collection", Bisa Naik Bisa Turun (1991)
+https://m3u-editor.com/serve/c21bb380-b273-11eb-9597-43324b876aa5/291563788
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//aguyZsbsGSitVcx1xOxNEL3Pmi6.jpg" group-title="Warkop DKI Collection", Bebas Aturan Main (1993)
+https://m3u-editor.com/serve/c21bb380-b273-11eb-9597-43324b876aa5/291563789
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200//52x4es5B6G2TGH6XH7CWXdpxNPH.jpg" group-title="Warkop DKI Collection", Salah Masuk (1993)
+https://m3u-editor.com/serve/c21bb380-b273-11eb-9597-43324b876aa5/291563790
+
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w200/" group-title="Warkop DKI Collection", Pencet Sana Pencet Sini (1994)
+https://m3u-editor.com/serve/c21bb380-b273-11eb-9597-43324b876aa5/291563791
