@@ -192,38 +192,6 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(bd164a95-72
 http://nonton.site:8888/Alifathaya/alifathaya123/1697
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040389.jpg" group-title="NEWS",TVR PARLEMEN
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
-#EXTM3U
-############################
-
-#EXTM3U url-tvg="http://epg.urfan.web.id" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
-
-#EXTM3U url-tvg="http://epg.urfan.web.id"
-
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
-#EXTM3U url-tvg="https://epg.kampung.xyz/"
-
-#EXTM3U url-tvg="https://link.zozotv.xyz/epgtvku.xml"
-
-#EXTM3U url-tvg="https://github.com/apollo2000/TVGuide/raw/master/utc.xml.gz"
-
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
-
-#EXTM3U url-tvg="https://i.mjh.nz/nz/epg.xml"
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/main/astro.xml"
-
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
-
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml"
-
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-
-#EXTM3U url-tvg="http://tvku.live:8888/xmltv.php?username=epg&password=epg"
-
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
-
-#EXTM3U url-tvg="http://epg.greatiptv.cc/iptv.xml.gz"
-http://i.mjh.nz/nzau/epg.xml.gz
 
 ##########ADMININFO###########
 
