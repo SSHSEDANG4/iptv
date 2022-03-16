@@ -240,11 +240,11 @@ https://m3u-editor.com/serve/hlzt5h5k2o/513640315.m3u8
 ##########MOVIES###########
 
 #EXTINF: -1 tvg-logo="https://bit.ly/3rqzGmH" group-title="MOVIES", HBO
-https://m3u-editor.com/serve/hlzt5h5k2o/513640308.m3u8
+http://ip2121.com:8081/live/hbo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/32ZU8Bx" group-title="MOVIES", HBO Signature
-https://m3u-editor.com/serve/hlzt5h5k2o/513640310.m3u8
+http://iptv.tvfix.org/hls/hbosignature.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/34uVaWt" group-title="MOVIES", HBO Hits
-https://m3u-editor.com/serve/hlzt5h5k2o/513640312.m3u8
+http://iptv.tvfix.org/hls/hbosignature.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3IZOFd2" group-title="MOVIES", HBO Family
 https://m3u-editor.com/serve/hlzt5h5k2o/513640314.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3HBSaq8" group-title="MOVIES", Cinemax
