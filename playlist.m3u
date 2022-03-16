@@ -226,8 +226,6 @@ http://akudandia.xyz/inews.m3u8
 
 ##########HBO MULTI SUB###########
 
-#EXTINF: -1 tvg-logo="https://bit.ly/3uvB5dB" group-title="HBO MULTI SUB", Admin WA. 082193423333
-https://m3u-editor.com/serve/vsquqftuh2/509998355.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/3rqzGmH" group-title="HBO MULTI SUB", HBO (Sub Manual)
 https://m3u-editor.com/serve/hlzt5h5k2o/513640307.m3u8
 #EXTINF: -1 tvg-logo="https://bit.ly/32ZU8Bx" group-title="HBO MULTI SUB", HBO Sig (Sub Manual)
