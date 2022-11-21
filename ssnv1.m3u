@@ -1007,6 +1007,13 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5SUdW3aJnyKt6RyKsn41L9A9fEryKaS78w&usqp=CAU" group-title="Musik",POP MUSIK
+#https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKxtNSWOEEOscUMNfiGz7Zh5ipKkRXzcHlvw&usqp=CAU" group-title="Musik",MALEO
+#https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIonAVpwiqgtkZJPMS5mAJd0T80YU0hIP84A&usqp=CAU" group-title="Musik",Dangdut Tivi
+#http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf88hDxM/20220918-112021.png" group-title="Entertainment",K+
 http://iptvid.my.id/hmm/kplus.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.postimg.cc/j2dmpf3n/20220926-183321.png" group-title="Berita",CNN Indonesia
