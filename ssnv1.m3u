@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml"
 
-#EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/hjRTDYDS/20220819-170346-picsay.png" group-title="Live Event",[LIVE 1]
-https://thegentleclass.xyz/hls/class14.m3u8|referer=http://thegentleclass.com/
-#EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/hjRTDYDS/20220819-170346-picsay.png" group-title="Live Event",[LIVE 2]
-https://thegentleclass.xyz/hls/class15.m3u8|referer=http://thegentleclass.com/
-#EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/hjRTDYDS/20220819-170346-picsay.png" group-title="Live Event",[LIVE 3]
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="Live Event",[LIVE 1]
+https://webudi.openhd.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="Live Event",[LIVE 2]
+https://webudi.openhd.lol/lb/premium116/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="Live Event",[LIVE 3]
+https://webudi.openhd.lol/lb/premium136/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/hjRTDYDS/20220819-170346-picsay.png" group-title="Live Event",[LIVE 4]
 https://dl.dropboxusercontent.com/s/5bd8ms5f96hws99/20221013_1928161.mp4?dl=0
 #EXTINF:-1 tvg-id="briliga1.id" tvg-logo="https://i.postimg.cc/wxJr5wwL/20220909-010544.png" group-title="Live Event",BRI Liga 1 - 1
@@ -159,7 +159,7 @@ https://youdooball.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:1 tvg-id="beINSports1Thailand.th" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="Olahraga", Bein Sports TH 1
+#EXTINF:1 tvg-id="\Sports1Thailand.th" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" group-title="Olahraga", Bein Sports TH 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 https://youdooball.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
