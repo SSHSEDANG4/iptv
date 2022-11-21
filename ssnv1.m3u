@@ -490,6 +490,12 @@ https://webudi.openhd.lol/lb/premium99/index.m3u8?|referer=https://widevine.lice
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" group-title="Olahraga" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports Premium 3
 https://webudi.openhd.lol/lb/premium100/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
+#EXTINF:-1 tvg-id="beINSports1.qa" group-title="Olahraga" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN MAX Sports 1
+http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/8224
+
+#EXTINF:-1 tvg-id="beINSports2.qa" group-title="Olahraga" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN MAX Sports 2
+http://iptvtree.net:8080/Jonsno/jv5DR53f7EG3Ajvx65/16878
+
 #EXTINF:-1 tvg-id="beINSports1.qa" group-title="Olahraga" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports 1
 https://webudi.openhd.lol/lb/premium91/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
