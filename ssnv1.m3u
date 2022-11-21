@@ -479,7 +479,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="UnifiSports2.my" tvg-logo="https://i.postimg.cc/Bn5B25Df/20220927-065221.png" group-title="Olahraga",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcHkj09s/20220926-145121.png" group-title="Lokal" ,Moji
-http://tv.zonanime.my.id/vidio/ochannel.m3u8
+http://210.210.155.35:80/qwr9ew/s/s41/01.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" group-title="Olahraga" tvg-logo="https://i.postimg.cc/vm37NQ3P/20220927-065205.png" ,beIN Sports Premium 1
 https://webudi.openhd.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
