@@ -1101,7 +1101,7 @@ http://iptvid.my.id/hmm/biosid.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYyLS2J/20221026-004946.png" group-title="Berita",CNA
 http://iptvid.my.id/hmm/cna.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nz52zLsh/images-9-picsay.png" group-title="Entertainment",Citra Drama
-http://iptvid.my.id/hmm/cdrama.m3u8
+https://dl.dropbox.com/s/5ws9vhnr7pf7n2j/CitraDrama.m3u8?dl=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1JDjKfK/20220926-183123.png" group-title="Berita",CNN World
 http://iptvid.my.id/hmm/cnmwrld.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTZcGX2z/20220927-134657.png" group-title="Musik",Citra Dangdut
