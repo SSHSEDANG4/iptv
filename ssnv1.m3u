@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml,https://macan.tv/xmltv.php?username=epg&password=epg"
 
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="Live Event",[LIVE 1]
 https://webudi.openhd.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
