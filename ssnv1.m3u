@@ -24,6 +24,8 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
 #EXTINF:-1  tvg-name="WC 6" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","SERVER 8"
 http://13.229.80.186:5000/play/Bein_Sport-Premium1/index.m3u8
+#EXTINF:-1  tvg-name="WC 6" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","SERVER 9"
+http://bolero.myftp.org:6001/stream/channelid/210379033?profile=pass
 
 
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="Live Event",[LIVE 1]
