@@ -1,0 +1,62 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
+#List suu tam Internet
+
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
+http://live.vthanhtivi.pw:8080/vtv2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT (2)
+http://bolero.myftp.org:6001/stream/channelid/807965496?profile=pass
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT (3)
+http://bolero.myftp.org:6001/stream/channelid/210379033?profile=pass
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT (4)
+https://wallpapermeter.tk/worldcup/vtv2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV
+http://live2.vthanhtivi.pw/vtv2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 MyTV (2)
+https://wallpapermeter.tk/worldcup/vtv2mytv
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 ViettelTV
+http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 T2
+http://bolero.myftp.org:6001/stream/channelid/768326915?profile=pass
+
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
+http://live.vthanhtivi.pw:8080/vtv3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT (2)
+http://bolero.myftp.org:6001/stream/channelid/1537326910?profile=pass
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT (3)
+http://bolero.myftp.org:6001/stream/channelid/841317984?profile=pass
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT (4)
+https://wallpapermeter.tk/worldcup/vtv3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 MyTV
+https://wallpapermeter.tk/worldcup/vtv3mytv
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 ViettelTV
+http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 T2
+http://live2.vthanhtivi.pw/vtv3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 T2 (2)
+http://bolero.myftp.org:6001/stream/channelid/165907585?profile=pass
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
+http://live.vthanhtivi.pw:8080/vtv5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT (2)
+http://bolero.myftp.org:6001/stream/channelid/1279518350?profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT (3)
+http://bolero.myftp.org:6001/stream/channelid/1230788689?profile=pass
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV
+http://live2.vthanhtivi.pw/vtv5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 MyTV (2)
+https://wallpapermeter.tk/worldcup/vtv5mytv
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 ViettelTV
+http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 T2
+http://bolero.myftp.org:6001/stream/channelid/706696953?profile=pass
+
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT
+http://live.vthanhtivi.pw:8080/vtvct
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV Cần Thơ FPT (2)
+https://wallpapermeter.tk/worldcup/vtvcantho
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ MyTV
+http://live2.vthanhtivi.pw/vtvct
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV Cần Thơ MyTV (2)
+https://wallpapermeter.tk/worldcup/vtvcanthomytv
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆 World Cup 2022" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ ViettelTV
+http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtvct
