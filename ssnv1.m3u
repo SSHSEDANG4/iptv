@@ -1237,21 +1237,21 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4DVzWzV/20221025-062430.png" tvg-id="TV1.my" group-title="TV Dunia",TV 1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6cdq0Jq/20221025-062414.png" tvg-id="TV2.my" group-title="TV Dunia",TV 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97 
-#EXTINF:0 tvg-id="TV3.my" tvg-logo="https://i.postimg.cc/1t5bxkjd/20221025-062357.png" group-title="TV Dunia",TV 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIAN", TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://i.postimg.cc/HkXqb4M6/20221025-062337.png" group-title="TV Dunia",TV 6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-logo="https://i.postimg.cc/D0RNX8wV/20221025-062133.png" group-title="TV Dunia",Astro Awani 
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669122204/ei/PHR8Y7KREM7T8wS-kZkw/ip/20.7.130.81/id/zLu0wfp6bgw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgUqe0UTMw1QhGT2SCMUt-8G91YGVywCpkBRSmTqDe8HMCIGW5mw5bmBJQ9hIt8iCWHb2-NaU80zF_VtUK6H-BSGvB/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q5SXRkZ/20221025-062053.png" tvg-id="DramaSangat.my" group-title="TV Dunia",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
