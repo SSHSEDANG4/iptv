@@ -25,6 +25,12 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
 #EXTINF:-1  tvg-name="WC 6" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","SERVER 8"
 http://13.229.80.186:5000/play/Bein_Sport-Premium1/index.m3u8
 
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="WORLD CUP 2022", SERVER 9
+https://webudi.openhd.lol/lb/premium111/index.m3u8|referer=https://besthdplayer.click/
+
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png" group-title="WORLD CUP 2022", SERVER 10
+https://webudi.openhd.lol/lb/premium112/index.m3u8|referer=https://besthdplayer.click/
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5090
 #EXTINF:-1 tvg-id="wc2022-1" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="WORLD CUP 2022", ASTRO WORLD CUP 1
