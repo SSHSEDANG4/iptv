@@ -30,6 +30,9 @@ http://bolero.myftp.org:6001/stream/channelid/210379033?profile=pass
 http://bolero.myftp.org:6001/stream/channelid/1537326910?profile=pass
 #EXTINF:-1  tvg-name="WC 6" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","SERVER 11"
 http://bolero.myftp.org:6001/stream/channelid/1230788689?profile=pass
+#EXTINF:-1  tvg-name="WC 6" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WORLD CUP 2022" :http-referrer="","SERVER 12"
+https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
+
 
 
 #EXTINF:-1 tvg-id="live1.id" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png" group-title="Live Event",[LIVE 1]
