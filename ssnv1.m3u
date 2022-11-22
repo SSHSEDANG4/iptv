@@ -1106,7 +1106,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDwnjTVq/20221026-004851.png" group-title="Berita",Insert
 http://iptvid.my.id/hmm/insert.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/154d0hFC/20221026-004723.png" group-title="Berita",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
+http://cdnrrinet.rri.co.id/rrinet/live_360p/chunklist_w774084731.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrCvCBFk/20220926-183435.png" group-title="Berita",Berita Satu
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb446503011668def857b1c03bafabba51  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdXZYKhf/20221026-010322.png" group-title="Anak",Davinci Kids
