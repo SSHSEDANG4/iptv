@@ -1,6 +1,0 @@
-#EXTINF:-1 group-title="Sportso" tvg-logo="https://i.imgur.com/7WLvHlS.png", Prima Sports 2 RO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZCeWlctvT6enGPSig8ykmw","k":"7gmZOAktoBawJuH53Dj59A"}]}
-https://m7rovideolive.solocoo.tv/blueskylivedash/bluelooksport/Manifest.mpd
