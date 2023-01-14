@@ -1,7 +1,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7WLvHlS.png", Prima Sports 1 RO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oCg7JaBzTHKVsnW7Qq9fWg","k":"71qFVyEgFS4GTPuGJ617_g"}]}
-https://m7rovideolive.solocoo.tv/blueskylivedash/bluelookplus/Manifest.mpd
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluelookplus/Manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
