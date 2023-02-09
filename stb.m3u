@@ -489,6 +489,8 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 #EXTINF:-1 group-title="Movies",Paramount Movie Channel
 https://bit.ly/3JDTFWj
 
+#EXTINF:-1  group-title="Kids" ,ANIMAX
+http://103.167.167.5:8111/play/a030/index.m3u8
 #EXTINF:-1 group-title="Kids",Aniplus
 http://rr1.dens.tv/h/h02/01.m3u8
 http://w.nasvpn.xyz:8080/live/saya/saya/3347.ts
