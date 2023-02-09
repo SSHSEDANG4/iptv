@@ -277,7 +277,8 @@ http://103.226.232.199:8008/play/a016/index.m3u8
 #EXTINF:-1 group-title="PARABOLA",jember2tv
 http://103.226.232.199:8008/play/a01g/index.m3u8
 
-
+#EXTINF:-1  tvg-name="NET TV 2" tvg-id="" tvg-logo="https://i.imgur.com/4UiQRvV.jpg" group-title="LOKAL NASIONAL HD" :http-referrer="",NET TV 
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 group-title="LOKAL NASIONAL HD",ANTV HD
 http://203.29.26.22:8000/play/a06x/index.m3u8
 #EXTINF:-1 group-title="LOKAL NASIONAL HD",BBS TV
