@@ -1,7 +1,6 @@
 
-	
 #EXTM3U
-#EXTM3U url-tvg="https://stavol.masuk.web.id/epg.xml,http://epg.kampung.xyz,https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedstates.xml,https://www.bevy.be/bevyfiles/arabiapremiumeng.xml,https://www.bevy.be/bevyfiles/australia.xml,https://www.bevy.be/bevyfiles/germany.xml,https://www.bevy.be/bevyfiles/india.xml,https://www.bevy.be/bevyfiles/poland.xml,https://www.bevy.be/bevyfiles/russia.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml,http://epg.kampung.xyz" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="MammothTV.id" tvg-logo="https://i.postimg.cc/rFdKQQtV/20220821-043541-picsay.png" group-title=".PLAYLIST INI GRATIS!",.Mammoth TV Info
 https://mammothtv.my.id/info.m3u8
@@ -68,12 +67,12 @@ http://mammothtv.my.id/info.m3u8
 #EXTINF:-1 tvg-id="f1.id" tvg-logo="https://i.postimg.cc/Gh4ZjMhw/1677110443-picsay.png" group-title="Live Event",[LIVE 1] Formula 1 - Monaco Grand Prix 2023
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium60/index.m3u8
+#https://webudit.salamus1.lol/lb/premium60/index.m3u8
 
 #EXTINF:-1 tvg-id="f1.id" tvg-logo="https://i.postimg.cc/Gh4ZjMhw/1677110443-picsay.png" group-title="Live Event",[LIVE 2] Formula 1 - Monaco Grand Prix 2023
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium424/index.m3u8
+#https://webudit.salamus1.lol/lb/premium424/index.m3u8
 
 #EXTINF:-1 tvg-id="motogp.id" tvg-logo="https://i.postimg.cc/j55g7qhQ/1679696876-picsay.png" group-title="Live Event",[LIVE 1] MotoGP - French Grand Prix 2023
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -98,7 +97,7 @@ https://webudit.salamus1.lol/lb/premium424/index.m3u8
 
 #EXTINF:-1 tvg-id="nba.id" tvg-logo="https://i.postimg.cc/wxXN5FmB/20221219-054652.png" group-title="Live Event",[07.30] Miami Heat vs Boston Celtics - NBA (CH1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium411/index.m3u8?|referer=https://widevine.licenses4.me/
+#https://webudit.salamus1.lol/lb/premium9/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="nba.id" tvg-logo="https://i.postimg.cc/wxXN5FmB/20221219-054652.png" group-title="Live Event",[07.30] Miami Heat vs Boston Celtics - NBA (CH2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -135,14 +134,14 @@ https://webudit.salamus1.lol/lb/premium424/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #http://43.132.80.166/mobilelive-play.ysp.cctv.cn/005/2019642201_hd.m3u8
 
 #EXTINF:-1 tvg-id="bwf.id" tvg-logo="https://i.postimg.cc/sxTcm4CR/20230321-130716.png" group-title="Live Event",[COURT 2] PERODUA Malaysia Master 2023
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #http://43.132.80.166/mobilelive-play.ysp.cctv.cn/005/2019640201_hd.m3u8
 
 #EXTINF:-1 tvg-id="bwf.id" tvg-logo="https://i.postimg.cc/sxTcm4CR/20230321-130716.png" group-title="Live Event",[COURT 3] PERODUA Malaysia Master 2023
@@ -156,12 +155,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="womens.id" tvg-logo="https://i.postimg.cc/jjRkR4w1/1679696940-picsay.png" group-title="Live Event",[20.30] Liverpool (w) vs Man United (w) - Women's Super League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium356/index.m3u8
+#https://webudit.salamus1.lol/lb/premium356/index.m3u8
 
 #EXTINF:-1 tvg-id="womens.id" tvg-logo="https://i.postimg.cc/jjRkR4w1/1679696940-picsay.png" group-title="Live Event",[20.30] Reading (w) vs Chelsea (w) - Women's Super League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium126/index.m3u8
+#https://webudit.salamus1.lol/lb/premium126/index.m3u8
   
 #EXTINF:-1 tvg-id="facup.id" tvg-logo="https://i.postimg.cc/DyGnLpm5/20230107-174245.png" group-title="Live Event",[20.30] Chelsea (w) vs Manchester United (w) - Emirates FA Women's Cup
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -193,20 +192,20 @@ https://webudit.salamus1.lol/lb/premium126/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://webudit.salamus1.lol/lb/premium308/index.m3u8
 
-#EXTINF:-1 tvg-id="eredivisie.id" tvg-logo="https://i.postimg.cc/HkYC72Qg/1675554752-picsay.png" group-title="Live Event",[19.30] Ajax vs Utrecht - Eredivisie
+#EXTINF:-1 tvg-id="eredivisie.id" tvg-logo="https://i.postimg.cc/HkYC72Qg/1675554752-picsay.png" group-title="Live Event",[19.30] AZ vs PSV - Eredivisie
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium16/index.m3u8
+#https://webudit.salamus1.lol/lb/premium10/index.m3u8
 
-#EXTINF:-1 tvg-id="eredivisie.id" tvg-logo="https://i.postimg.cc/HkYC72Qg/1675554752-picsay.png" group-title="Live Event",[19.30] Emmen vs Feyenoord - Eredivisie
+#EXTINF:-1 tvg-id="eredivisie.id" tvg-logo="https://i.postimg.cc/HkYC72Qg/1675554752-picsay.png" group-title="Live Event",[19.30] Feyenoord vs Vitesse - Eredivisie
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://webudit.salamus1.lol/lb/premium386/index.m3u8
 
-#EXTINF:-1 tvg-id="eredivisie.id" tvg-logo="https://i.postimg.cc/HkYC72Qg/1675554752-picsay.png" group-title="Live Event",[19.30] PSV vs Heerenveen - Eredivisie
+#EXTINF:-1 tvg-id="eredivisie.id" tvg-logo="https://i.postimg.cc/HkYC72Qg/1675554752-picsay.png" group-title="Live Event",[19.30] Twente vs Ajax - Eredivisie
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium17/index.m3u8
+#https://webudit.salamus1.lol/lb/premium11/index.m3u8
 
 #EXTINF:-1 tvg-id="eredivisie.id" tvg-logo="https://i.postimg.cc/HkYC72Qg/1675554752-picsay.png" group-title="Live Event",[01.00] PSV vs Fortuna Sittard - Eredivisie
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -216,217 +215,242 @@ https://webudit.salamus1.lol/lb/premium126/index.m3u8
 #EXTINF:-1 tvg-id="spl.id" tvg-logo="https://i.postimg.cc/zvdKscfK/1674394883-picsay.png" group-title="Live Event",[01.00] Al Batin vs Al Adalah - Saudi Pro League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium86/index.m3u8
+#https://webudit.salamus1.lol/lb/premium86/index.m3u8
 
 #EXTINF:-1 tvg-id="spl.id" tvg-logo="https://i.postimg.cc/zvdKscfK/1674394883-picsay.png" group-title="Live Event",[01.00] Al Ettifaq vs Al Nassr - Saudi Pro League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium43/index.m3u8
+#https://webudit.salamus1.lol/lb/premium43/index.m3u8
 
 #EXTINF:-1 tvg-id="spl.id" tvg-logo="https://i.postimg.cc/zvdKscfK/1674394883-picsay.png" group-title="Live Event",[01.00] Abha Club vs Al Hilal - Saudi Pro League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium153/index.m3u8
+#https://webudit.salamus1.lol/lb/premium153/index.m3u8
 
 #EXTINF:-1 tvg-id="spl.id" tvg-logo="https://i.postimg.cc/zvdKscfK/1674394883-picsay.png" group-title="Live Event",[01.00] Al Shabab vs Al Taawoun - Saudi Pro League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium157/index.m3u8
+#https://webudit.salamus1.lol/lb/premium157/index.m3u8
 
 #EXTINF:-1 tvg-id="spl.id" tvg-logo="https://i.postimg.cc/zvdKscfK/1674394883-picsay.png" group-title="Live Event",[01.00] Al Feiha vs Al Ittihad - Saudi Pro League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium158/index.m3u8
+#https://webudit.salamus1.lol/lb/premium158/index.m3u8
 
-#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[02.00] Manchester United vs Chelsea - Premier League (CH1)
+#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.30] Arsenal vs Wolves - Premier League
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.salamus1.lol/lb/premium3/index.m3u8
+
+#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.30] Aston Villa vs Brighton - Premier League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://webudit.salamus1.lol/lb/premium4/index.m3u8
 
-#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[02.00] Manchester United vs Chelsea - Premier League (CH2)
+#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.30] Brentford vs Manchester City - Premier League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium414/index.m3u8
+#https://webudit.salamus1.lol/lb/premium5/index.m3u8
 
-#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[02.00] Manchester United vs Chelsea - Premier League (CH3)
+#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.30] Chelsea vs Newcastle - Premier League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium130/index.m3u8
+#https://webudit.salamus1.lol/lb/premium6/index.m3u8
 
-#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[20.00] Brighton vs Southampton - Premier League (CH2)
+#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.30] Crystal Palace vs Nott'm Forest - Premier League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium124/index.m3u8
-
-#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.00] Manchester City vs Chelsea - Premier League (CH1)
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium12/index.m3u8
+#https://webudit.salamus1.lol/lb/premium7/index.m3u8
   
-#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.00] Manchester City vs Chelsea - Premier League (CH2)
+#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.30] Everton vs Bournemouth - Premier League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium125/index.m3u8
+#https://webudit.salamus1.lol/lb/premium8/index.m3u8
 
-#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[23.30] Manchester City vs Leicester - Premier League
+#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.30] Leeds vs Tottenham - Premier League
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.salamus1.lol/lb/premium9/index.m3u8
+
+#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.30] Leicester vs West Ham - Premier League
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.salamus1.lol/lb/premium10/index.m3u8
+
+#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.30] Southampton vs Liverpool - Premier League
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.salamus1.lol/lb/premium22/index.m3u8
+
+#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[22.30] Manchester United vs Fulham - Premier League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://webudit.salamus1.lol/lb/premium11/index.m3u8
 
-#EXTINF:-1 tvg-id="epl.id" tvg-logo="https://i.postimg.cc/ZqPmwycK/20221206-044904.png" group-title="Live Event",[23.30] Southampton vs Manchester City - Premier League
+#EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[17.30] Verona vs Empoli - Serie A
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium7/index.m3u8
+#https://webudit.salamus1.lol/lb/premium56/index.m3u8
 
-#EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[20.00] Salernitana vs Udinese - Serie A (CH1)
+#EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[20.00] Bologna vs Napoli - Serie A
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium12/index.m3u8
+#https://webudit.salamus1.lol/lb/premium56/index.m3u8
 
-#EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[20.00] Salernitana vs Udinese - Serie A (CH2)
+#EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[20.00] Monza vs Lecce - Serie A
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium86/index.m3u8
+#https://webudit.salamus1.lol/lb/premium415/index.m3u8
 
-#EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[20.00] Spezia vs Torino - Serie A (CH1)
+#EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[23.00] Lazio vs Cremonese - Serie A
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium33/index.m3u8
+#https://webudit.salamus1.lol/lb/premium308/index.m3u8
 
-#EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[20.00] Spezia vs Torino - Serie A (CH2)
+#EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[01.45] Juventus vs Milan - Serie A
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium56/index.m3u8
-
-#EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[23.00] Fiorentina vs Roma - Serie A (CH1)
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium32/index.m3u8
+#https://webudit.salamus1.lol/lb/premium56/index.m3u8
 
 #EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[23.00] Fiorentina vs Roma - Serie A (CH2)
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium56/index.m3u8
+#https://webudit.salamus1.lol/lb/premium56/index.m3u8
 
 #EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[01.45] Inter vs Atalanta - Serie A (CH1)
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium32/index.m3u8
+#https://webudit.salamus1.lol/lb/premium32/index.m3u8
 
 #EXTINF:-1 tvg-id="seriea.id" tvg-logo="https://i.postimg.cc/prrtVctp/20221206-044825.png" group-title="Live Event",[01.45] Inter vs Atalanta - Serie A (CH2)
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium56/index.m3u8
+#https://webudit.salamus1.lol/lb/premium56/index.m3u8
 
-#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Sevilla vs Real Madrid - La Liga (CH1)
+#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Athletic Club vs Elche - La Liga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium415/index.m3u8
+#https://webudit.salamus1.lol/lb/premium156/index.m3u8
 
-#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Sevilla vs Real Madrid - La Liga (CH2)
+#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Atletico Madrid vs Real Sociedad - La Liga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium451/index.m3u8
+#https://webudit.salamus1.lol/lb/premium13/index.m3u8
 
-#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[02.30] Osasuna vs Atletico Madrid - La Liga (CH1)
+#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Barcelona vs Mallorca - La Liga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium451/index.m3u8
+#https://webudit.salamus1.lol/lb/premium538/index.m3u8
 
-#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[02.30] Osasuna vs Atletico Madrid - La Liga (CH2)
+#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Getafe vs Osasuna - La Liga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium415/index.m3u8
+#https://webudit.salamus1.lol/lb/premium14/index.m3u8
 
-#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[03.00] Real Betis vs Getafe - La Liga
+#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Cadiz vs Celta Vigo - La Liga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium597/index.m3u8
+#https://webudit.salamus1.lol/lb/premium157/index.m3u8
 
-#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[03.00] Espanyol vs Atletico Madrid - La Liga
+#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Rayo Vallecano vs Villarreal - La Liga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium415/index.m3u8
+#https://webudit.salamus1.lol/lb/premium158/index.m3u8
+
+#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Almeria vs Real Valladolid - La Liga
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.salamus1.lol/lb/premium159/index.m3u8
+
+#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Girona vs Real Betis - La Liga
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.salamus1.lol/lb/premium160/index.m3u8
+
+#EXTINF:-1 tvg-id="laliga.id" tvg-logo="https://i.postimg.cc/fWqNqsxX/20221206-044805.png" group-title="Live Event",[00.00] Valencia vs Espanyol - La Liga
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://webudit.salamus1.lol/lb/premium15/index.m3u8
 
 #EXTINF:-1 tvg-id="ligue1.id" tvg-logo="https://i.postimg.cc/ZRVSSt2G/20221206-044843.png" group-title="Live Event",[02.00] Angers vs Troyes - Ligue 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium108/index.m3u8
+#https://webudit.salamus1.lol/lb/premium108/index.m3u8
 
 #EXTINF:-1 tvg-id="ligue1.id" tvg-logo="https://i.postimg.cc/ZRVSSt2G/20221206-044843.png" group-title="Live Event",[02.00] Clermont vs Lorient - Ligue 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium109/index.m3u8
+#https://webudit.salamus1.lol/lb/premium109/index.m3u8
 
 #EXTINF:-1 tvg-id="ligue1.id" tvg-logo="https://i.postimg.cc/ZRVSSt2G/20221206-044843.png" group-title="Live Event",[02.00] Lille vs Nantes - Ligue 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium110/index.m3u8
+#https://webudit.salamus1.lol/lb/premium110/index.m3u8
 
 #EXTINF:-1 tvg-id="ligue1.id" tvg-logo="https://i.postimg.cc/ZRVSSt2G/20221206-044843.png" group-title="Live Event",[02.00] Montpellier vs Nice - Ligue 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium151/index.m3u8
+#https://webudit.salamus1.lol/lb/premium151/index.m3u8
 
 #EXTINF:-1 tvg-id="ligue1.id" tvg-logo="https://i.postimg.cc/ZRVSSt2G/20221206-044843.png" group-title="Live Event",[02.00] Lyon vs Reims - Ligue 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium152/index.m3u8
+#https://webudit.salamus1.lol/lb/premium152/index.m3u8
 
 #EXTINF:-1 tvg-id="ligue1.id" tvg-logo="https://i.postimg.cc/ZRVSSt2G/20221206-044843.png" group-title="Live Event",[02.00] Marseille vs Brest - Ligue 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium15/index.m3u8
+#https://webudit.salamus1.lol/lb/premium15/index.m3u8
 
 #EXTINF:-1 tvg-id="ligue1.id" tvg-logo="https://i.postimg.cc/ZRVSSt2G/20221206-044843.png" group-title="Live Event",[02.00] Lens vs Ajaccio - Ligue 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium159/index.m3u8
+#https://webudit.salamus1.lol/lb/premium159/index.m3u8
 
 #EXTINF:-1 tvg-id="ligue1.id" tvg-logo="https://i.postimg.cc/ZRVSSt2G/20221206-044843.png" group-title="Live Event",[02.00] Strasbourg vs PSG - Ligue 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium160/index.m3u8
+#https://webudit.salamus1.lol/lb/premium160/index.m3u8
 
 #EXTINF:-1 tvg-id="ligue1.id" tvg-logo="https://i.postimg.cc/ZRVSSt2G/20221206-044843.png" group-title="Live Event",[02.00] Rennes vs Monaco - Ligue 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium463/index.m3u8
+#https://webudit.salamus1.lol/lb/premium463/index.m3u8
 
 #EXTINF:-1 tvg-id="ligue1.id" tvg-logo="https://i.postimg.cc/ZRVSSt2G/20221206-044843.png" group-title="Live Event",[02.00] Toulouse vs Auxerre - Ligue 1
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium161/index.m3u8
+#https://webudit.salamus1.lol/lb/premium161/index.m3u8
 
 #EXTINF:-1 tvg-id="bundesliga.id" tvg-logo="https://i.postimg.cc/MTWSNKP0/20221206-044751.png" group-title="Live Event",[20.30] Dortmund vs Mainz - Bundesliga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium13/index.m3u8
+#https://webudit.salamus1.lol/lb/premium13/index.m3u8
 
 #EXTINF:-1 tvg-id="bundesliga.id" tvg-logo="https://i.postimg.cc/MTWSNKP0/20221206-044751.png" group-title="Live Event",[20.30] Leipzig vs Schalke - Bundesliga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium14/index.m3u8
+#https://webudit.salamus1.lol/lb/premium14/index.m3u8
 
 #EXTINF:-1 tvg-id="bundesliga.id" tvg-logo="https://i.postimg.cc/MTWSNKP0/20221206-044751.png" group-title="Live Event",[20.30] Union Berlin vs Werder Bremen - Bundesliga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium15/index.m3u8
+#https://webudit.salamus1.lol/lb/premium15/index.m3u8
 
 #EXTINF:-1 tvg-id="bundesliga.id" tvg-logo="https://i.postimg.cc/MTWSNKP0/20221206-044751.png" group-title="Live Event",[20.30] Koln vs Bayern Munchen - Bundesliga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium16/index.m3u8
+#https://webudit.salamus1.lol/lb/premium16/index.m3u8
 
 #EXTINF:-1 tvg-id="bundesliga.id" tvg-logo="https://i.postimg.cc/MTWSNKP0/20221206-044751.png" group-title="Live Event",[20.30] M'gladbach vs Augsburg - Bundesliga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium17/index.m3u8
+#https://webudit.salamus1.lol/lb/premium17/index.m3u8
 
 #EXTINF:-1 tvg-id="bundesliga.id" tvg-logo="https://i.postimg.cc/MTWSNKP0/20221206-044751.png" group-title="Live Event",[20.30] Frankfurt vs Freiburg - Bundesliga
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium18/index.m3u8
+#https://webudit.salamus1.lol/lb/premium18/index.m3u8
 
 #EXTINF:-1 tvg-id="dfb.id" tvg-logo="https://i.postimg.cc/XJ2sMCYL/1675228998-picsay.png" group-title="Live Event",[21.45] Wolfsburg vs Freiburg - DFB Pokal
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -438,15 +462,15 @@ https://webudit.salamus1.lol/lb/premium18/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://webudit.salamus1.lol/lb/premium316/index.m3u8
 
-#EXTINF:-1 tvg-id="efl.id" tvg-logo="https://i.postimg.cc/28vRYG6L/1675469672-picsay.png" group-title="Live Event",[22.45] Coventry City vs Luton Town - England Championship
+#EXTINF:-1 tvg-id="efl.id" tvg-logo="https://i.postimg.cc/28vRYG6L/1675469672-picsay.png" group-title="Live Event",[21.00] Barnsley vs Sheffield Wednesday - England League One (CH1)
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.salamus1.lol/lb/premium2/index.m3u8
+
+#EXTINF:-1 tvg-id="efl.id" tvg-logo="https://i.postimg.cc/28vRYG6L/1675469672-picsay.png" group-title="Live Event",[21.00] Barnsley vs Sheffield Wednesday - England League One (CH2)
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.salamus1.lol/lb/premium35/index.m3u8
-
-#EXTINF:-1 tvg-id="efl.id" tvg-logo="https://i.postimg.cc/28vRYG6L/1675469672-picsay.png" group-title="Live Event",[02.00] Middlesbrough vs Coventry - England Championship (Backup)
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium445/index.m3u8
 
 #EXTINF:-1 tvg-id="efl.id" tvg-logo="https://i.postimg.cc/28vRYG6L/1675469672-picsay.png" group-title="Live Event",[21.00] Bristol City vs Burnley - England Championship
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -463,35 +487,39 @@ https://webudit.salamus1.lol/lb/premium35/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://webudit.salamus1.lol/lb/premium167/index.m3u8
   
-#EXTINF:-1 tvg-id="jleague.id" tvg-logo="https://i.postimg.cc/8c1X8CrJ/20230527-150000.png" group-title="Live Event",[15.00] Sagan Tosu vs Kashima Antlers - J League 1
+#EXTINF:-1 tvg-id="jleague.id" tvg-logo="https://i.postimg.cc/8c1X8CrJ/20230527-150000.png" group-title="Live Event",[12.00] Albirex Niigata vs Gamba Osaka - J League 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.4shares.live/
-https://punya.mammothtv.my.id/live/j-league/ch1.m3u8
+#https://webudit.salamus1.lol/lb/premium144/index.m3u8
 
-#EXTINF:-1 tvg-id="jleague.id" tvg-logo="https://i.postimg.cc/8c1X8CrJ/20230527-150000.png" group-title="Live Event",[17.00] Kyoto Sanga vs Urawa Red Diamonds - J League 1
+#EXTINF:-1 tvg-id="jleague.id" tvg-logo="https://i.postimg.cc/8c1X8CrJ/20230527-150000.png" group-title="Live Event",[15.00] Kawasaki Frontale vs Kashiwa Reysol - J League 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://player.4shares.live/
-https://punya.mammothtv.my.id/live/j-league/ch2.m3u8
+#https://webudit.salamus1.lol/lb/premium571/index.m3u8
+
+#EXTINF:-1 tvg-id="jleague.id" tvg-logo="https://i.postimg.cc/8c1X8CrJ/20230527-150000.png" group-title="Live Event",[12.00] Cerezo Osaka vs Yokohama FC - J League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#https://18assia.com/hls/55.m3u8?md5=FTC2txI-nSfU1gl2eXkrDw&expires=1685256788
 
 #EXTINF:-1 tvg-id="kleague.id" tvg-logo="https://i.postimg.cc/sxw63Rpn/20230527-150013.png" group-title="Live Event",[14.00] Jeonnam Dragons vs Cheonan City - K League 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.4shares.live/
-https://punya.mammothtv.my.id/live/k-league/ch1.m3u8
+#https://punya.mammothtv.my.id/live/k-league/ch1.m3u8
 
-#EXTINF:-1 tvg-id="wta.id" tvg-logo="https://i.postimg.cc/vTYk6Q4F/20230525-062937.png" group-title="Live Event",[16.00] WTA 250 - Internationaux de Strasbourg
+#EXTINF:-1 tvg-id="wta.id" tvg-logo="https://i.postimg.cc/vTYk6Q4F/20230525-062937.png" group-title="Live Event",[16.45] WTA French Open 2023
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium423/index.m3u8
+https://webudit.salamus1.lol/lb/premium41/index.m3u8
 
-#EXTINF:-1 tvg-id="atp.id" tvg-logo="https://i.postimg.cc/NM7ZMyfk/20230525-062921.png" group-title="Live Event",[16.00] ATP World Tour 250 - Lyon
+#EXTINF:-1 tvg-id="atp.id" tvg-logo="https://i.postimg.cc/NM7ZMyfk/20230525-062921.png" group-title="Live Event",[16.00] ATP Roland Garos - First Round
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.salamus1.lol/lb/premium129/index.m3u8
+https://webudit.salamus1.lol/lb/premium41/index.m3u8
 
-#EXTINF:-1 tvg-id="atp.id" tvg-logo="https://i.postimg.cc/NM7ZMyfk/20230525-062921.png" group-title="Live Event",[23.00] ATP World Tour 250 - Genebra
+#EXTINF:-1 tvg-id="atp.id" tvg-logo="https://i.postimg.cc/NM7ZMyfk/20230525-062921.png" group-title="Live Event",[16.00] ATP French Open 2023
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://webudit.salamus1.lol/lb/premium291/index.m3u8
+https://webudit.salamus1.lol/lb/premium42/index.m3u8
 
 #EXTINF:-1 tvg-id="ucl.id" tvg-logo="https://i.postimg.cc/Fz6XYb9G/20221206-044733.png" group-title="Live Event",[02.00] Manchester City vs Real Madrid - UEFA Champions League
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -573,25 +601,25 @@ https://webudit.salamus1.lol/lb/premium129/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://webudit.salamus1.lol/lb/premium32/index.m3u8
 
-#EXTINF:-1 tvg-id="fifau20.id" tvg-logo="https://i.postimg.cc/RF1GDNwx/20230520-070224.png" group-title="Live Event",[01.00] Brazil U20 vs Nigeria U20 - FIFA U20 World Cup
+#EXTINF:-1 tvg-id="fifau20.id" tvg-logo="https://i.postimg.cc/RF1GDNwx/20230520-070224.png" group-title="Live Event",[01.00] Iraq U20 vs England U20 - FIFA U20 World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium111/index.m3u8
+#https://webudit.salamus1.lol/lb/premium758/index.m3u8
 
-#EXTINF:-1 tvg-id="fifau20.id" tvg-logo="https://i.postimg.cc/RF1GDNwx/20230520-070224.png" group-title="Live Event",[01.00] Dominican Republic U20 vs Italy U20 - FIFA U20 World Cup
+#EXTINF:-1 tvg-id="fifau20.id" tvg-logo="https://i.postimg.cc/RF1GDNwx/20230520-070224.png" group-title="Live Event",[01.00] Tunisia U20 vs Uruguay U20 - FIFA U20 World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium112/index.m3u8
+#https://webudit.salamus1.lol/lb/premium756/index.m3u8
 
-#EXTINF:-1 tvg-id="fifau20.id" tvg-logo="https://i.postimg.cc/RF1GDNwx/20230520-070224.png" group-title="Live Event",[04.00] Colombia U20 vs Senegal U20 - FIFA U20 World Cup
+#EXTINF:-1 tvg-id="fifau20.id" tvg-logo="https://i.postimg.cc/RF1GDNwx/20230520-070224.png" group-title="Live Event",[04.00] Honduras U20 vs France U20 - FIFA U20 World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium115/index.m3u8
+#https://webudit.salamus1.lol/lb/premium90/index.m3u8
 
-#EXTINF:-1 tvg-id="fifau20.id" tvg-logo="https://i.postimg.cc/RF1GDNwx/20230520-070224.png" group-title="Live Event",[04.00] Japan U20 vs Israel U20 - FIFA U20 World Cup
+#EXTINF:-1 tvg-id="fifau20.id" tvg-logo="https://i.postimg.cc/RF1GDNwx/20230520-070224.png" group-title="Live Event",[04.00] Korea Republic U20 vs Gambia U20 - FIFA U20 World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium112/index.m3u8
+#https://webudit.salamus1.lol/lb/premium46/index.m3u8
 
 #EXTINF:-1 tvg-id="coupedf.id" tvg-logo="https://i.postimg.cc/5N7X7zBZ/1675811789-picsay.png" group-title="Live Event",[02.00] Nantes vs Toulouse - Coupe de France
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -2105,6 +2133,18 @@ http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 #EXTINF:-1 tvg-id="8" tvg-logo="https://i.postimg.cc/XvY0j3x1/20230526-203916.png" group-title="Film",Universal Cinema
 http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnhSPwPp/20230529-160039.png" group-title="Film",Zee Cinema HD
+https://toffee.sabbirhasan.trial.rocks/auto/zee_cinema_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsFZwtyz/20230529-160020.png" group-title="Film",B4U Movies
+https://toffee.sabbirhasan.trial.rocks/auto/b4u_movies.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0PfY9Q3/20230529-160108.png" group-title="Film",Zee Action
+https://toffee.sabbirhasan.trial.rocks/auto/zee_action.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dXFKN9T/20230529-160053.png" group-title="Film",Zee Bollywood
+https://toffee.sabbirhasan.trial.rocks/auto/zee_bolly.m3u8
+
 <!-- Family -->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2335,6 +2375,21 @@ http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"W8PQavWcSrPT2sIwFf0C+Q", "kid":"+aYlIDb2TzazduT5++WDxw" } ], "type":"temporary" }
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwtH3Hk7/20230529-160314.png" group-title="Hiburan",&Pictures HD
+https://toffee.sabbirhasan.trial.rocks/auto/and_picture_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqZB7Nc3/20230529-160218.png" group-title="Hiburan",Sony MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3HXcPDc/20230529-160200.png" group-title="Hiburan",Sony Entertainment HD
+https://toffee.sabbirhasan.trial.rocks/auto/sony_entertainmnt_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/m26x0MF1/20230529-160247.png" group-title="Hiburan",Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqZB7Nc3/20230529-160218.png" group-title="Hiburan",Sony MAX 2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+
 <!-- Pengetahuan -->
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" tvg-logo="https://i.postimg.cc/RhjKg87N/20230524-164646.png" group-title="Pengetahuan",Discovery Turbo
@@ -2360,6 +2415,12 @@ https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WildEarth.au" tvg-name="Inwonder" tvg-logo="https://i.postimg.cc/L8Fjfc4W/20230524-164437.png" group-title="Pengetahuan",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y4dMS3L/20230529-160352.png" group-title="Pengetahuan",FOX Life
+https://toffee.sabbirhasan.trial.rocks/auto/fox_life.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjyKHvhf/20230529-160333.png" group-title="Pengetahuan",Discovery Science
+https://toffee.sabbirhasan.trial.rocks/auto/discovery_science.m3u8
 
 <!-- Anak -->
 
@@ -3605,10 +3666,50 @@ https://ns1.ruby.gift/play/driveid-162312-webrip-1080-terbit21-com-john-wick-cha
 #EXTVLCOPT:http-referrer=https://t21.press/
 https://ef2.ruby.gift/play/driveid-161866-webdl-1080-terbit21-com-deaths-roulette-2023.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/s0Qx9YL1JSpYKm1hu0Ovj0IJ1SN-150x225.jpg" group-title="VOD International",Dead Shot (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-161834-webrip-1080-terbit21-com-dead-shot-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/n8ZpMwYT02XjpQHpSxn1eJw5Zpz-146x218.jpg" group-title="VOD International",Crater (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef3.ruby.gift/play/driveid-161845-webdl-1080-terbit21-com-crater-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/vnRthEZz16Q9VWcP5homkHxyHoy-146x218.jpg" group-title="VOD International",The Mother (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef1.ruby.gift/play/driveid-161848-webrip-1080-terbit21-com-the-mother-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/cxSKca4dNlk7O7PMiEYT203vlIw-146x218.jpg" group-title="VOD International",One Day As a Lion (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ns2.ruby.gift/play/driveid-161063-webrip-720-terbit21-com-one-day-as-a-lion-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/p6yUjhvNGQpFZilKwOKbxQ1eHlo-146x218.jpg" group-title="VOD International",Renfield (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef3.ruby.gift/play/driveid-161135-webrip-1080-terbit21-com-renfield-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/8OyzvMrVx2tXjyJiE3GZpvaXE2T-146x218.jpg" group-title="VOD International",Invitation to a Murder (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160591-webrip-1080-terbit21-com-invitation-to-a-murder-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/pD1o9B0ibENdNroYrBCQemG2jnr-1-146x218.jpg" group-title="VOD International",Last Sentinel (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160588-webrip-1080-terbit21-com-last-sentinel-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/9NXAlFEE7WDssbXSMgdacsUD58Y-146x218.jpg" group-title="VOD International",Peter Pan & Wendy (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-160519-webdl-1080-terbit21-com-peter-pan-wendy-2023.mp4
+
 <!-- VOD Asia -->
 
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIHpMpfgFk-rLBbOM4LMiMgiU7rR6ervtZA&usqp=CAU" group-title="VOD Asia",Unlocked (2023)
 https://punya.mammothtv.my.id/vod/2023/unlocked.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/lB4VhlVcJGxBTHtSgFaCJdFrmxL-146x218.jpg" group-title="VOD Asia",Thankam (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef1.ruby.gift/play/driveid-161868-webdl-1080-terbit21-com-thankam-2023.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://i2.wp.com/terbit21.com/wp-content/uploads/2023/05/eFczmRIOQqsxgcihXxpPZYWMKog-146x218.jpg" group-title="VOD Asia",Yaathisai (2023)
+#EXTVLCOPT:http-referrer=https://t21.press/
+https://ef2.ruby.gift/play/driveid-162004-webdl-1080-terbit21-com-yaathisai-2023.mp4
 
 <!-- VOD Indonesia -->
 
